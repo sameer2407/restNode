@@ -1,0 +1,302 @@
+[
+  {
+    "id": 1,
+    "name": "Updated Product",
+    "description": "Updated Description",
+    "price": 299.99
+  },
+  {
+    "id": 3,
+    "name": "Laptop",
+    "description": "Lightweight laptop with high-speed performance and 16GB RAM.",
+    "price": 1199.99
+  },
+  {
+    "id": 4,
+    "name": "Smartwatch",
+    "description": "Waterproof smartwatch with health tracking and customizable faces.",
+    "price": 199.99
+  },
+  {
+    "id": 5,
+    "name": "Tablet",
+    "description": "Compact tablet with high-resolution display and 8GB RAM.",
+    "price": 599.99
+  },
+  {
+    "id": 6,
+    "name": "Bluetooth Speaker",
+    "description": "Portable speaker with deep bass and long battery life.",
+    "price": 49.99
+  },
+  {
+    "id": 7,
+    "name": "Gaming Console",
+    "description": "Next-gen gaming console with ultra-fast loading times.",
+    "price": 499.99
+  },
+  {
+    "id": 8,
+    "name": "Digital Camera",
+    "description": "High-resolution camera with 4K video recording capabilities.",
+    "price": 699.99
+  },
+  {
+    "id": 9,
+    "name": "VR Headset",
+    "description": "Immersive VR experience with a wide field of view.",
+    "price": 299.99
+  },
+  {
+    "id": 10,
+    "name": "E-Reader",
+    "description": "Lightweight e-reader with glare-free display for easy reading.",
+    "price": 129.99
+  },
+  {
+    "id": 11,
+    "name": "Smart Home Hub",
+    "description": "Control your smart home devices with voice commands.",
+    "price": 89.99
+  },
+  {
+    "id": 12,
+    "name": "4K TV",
+    "description": "Ultra HD TV with vibrant colors and smart functionality.",
+    "price": 999.99
+  },
+  {
+    "id": 13,
+    "name": "Drone",
+    "description": "High-resolution camera drone with GPS and auto return.",
+    "price": 399.99
+  },
+  {
+    "id": 14,
+    "name": "Fitness Tracker",
+    "description": "Track your steps, sleep, and heart rate 24/7.",
+    "price": 49.99
+  },
+  {
+    "id": 15,
+    "name": "Noise-Canceling Earbuds",
+    "description": "Wireless earbuds with active noise cancellation.",
+    "price": 149.99
+  },
+  {
+    "id": 16,
+    "name": "Smart Thermostat",
+    "description": "Adjust your home's temperature with voice control.",
+    "price": 199.99
+  },
+  {
+    "id": 17,
+    "name": "Robot Vacuum",
+    "description": "Automatic vacuum with smart mapping and scheduling.",
+    "price": 249.99
+  },
+  {
+    "id": 18,
+    "name": "Portable Projector",
+    "description": "Mini projector with HDMI input and built-in speaker.",
+    "price": 129.99
+  },
+  {
+    "id": 19,
+    "name": "Electric Scooter",
+    "description": "Foldable electric scooter with long-range battery.",
+    "price": 349.99
+  },
+  {
+    "id": 20,
+    "name": "Smart Door Lock",
+    "description": "Keyless entry with smartphone app control.",
+    "price": 179.99
+  },
+  {
+    "id": 21,
+    "name": "Air Purifier",
+    "description": "Remove allergens and pollutants from the air.",
+    "price": 139.99
+  },
+  {
+    "id": 22,
+    "name": "Security Camera",
+    "description": "Wi-Fi-enabled security camera with night vision.",
+    "price": 79.99
+  },
+  {
+    "id": 23,
+    "name": "Portable Charger",
+    "description": "High-capacity power bank with fast charging.",
+    "price": 29.99
+  },
+  {
+    "id": 24,
+    "name": "Wireless Keyboard",
+    "description": "Ergonomic design with a long-lasting battery.",
+    "price": 49.99
+  },
+  {
+    "id": 25,
+    "name": "Wireless Mouse",
+    "description": "Smooth tracking with adjustable sensitivity.",
+    "price": 19.99
+  },
+  {
+    "id": 26,
+    "name": "Smart Light Bulb",
+    "description": "Color-changing LED bulb controlled by an app.",
+    "price": 14.99
+  },
+  {
+    "id": 27,
+    "name": "Electric Kettle",
+    "description": "Stainless steel kettle with fast boiling.",
+    "price": 39.99
+  },
+  {
+    "id": 28,
+    "name": "Coffee Maker",
+    "description": "Single-serve coffee maker compatible with K-cups.",
+    "price": 89.99
+  },
+  {
+    "id": 29,
+    "name": "Blender",
+    "description": "High-speed blender with multiple speed settings.",
+    "price": 59.99
+  },
+  {
+    "id": 30,
+    "name": "Air Fryer",
+    "description": "Healthier cooking with little to no oil.",
+    "price": 79.99
+  },
+  {
+    "id": 31,
+    "name": "Smart Mirror",
+    "description": "Mirror with integrated LED lights and smart features.",
+    "price": 249.99
+  },
+  {
+    "id": 32,
+    "name": "Video Doorbell",
+    "description": "Monitor your doorstep from anywhere with HD video.",
+    "price": 149.99
+  },
+  {
+    "id": 33,
+    "name": "Wireless Charger",
+    "description": "Fast wireless charging pad for compatible devices.",
+    "price": 29.99
+  },
+  {
+    "id": 34,
+    "name": "Electric Toothbrush",
+    "description": "Rechargeable toothbrush with multiple modes.",
+    "price": 59.99
+  },
+  {
+    "id": 35,
+    "name": "Smart Scale",
+    "description": "Measure weight and body fat with app integration.",
+    "price": 49.99
+  },
+  {
+    "id": 36,
+    "name": "Massage Gun",
+    "description": "Deep tissue massager with multiple speed settings.",
+    "price": 99.99
+  },
+  {
+    "id": 37,
+    "name": "Portable Fan",
+    "description": "Compact fan with adjustable speed.",
+    "price": 19.99
+  },
+  {
+    "id": 38,
+    "name": "Electric Shaver",
+    "description": "Cordless shaver with a rechargeable battery.",
+    "price": 79.99
+  },
+  {
+    "id": 39,
+    "name": "Infrared Thermometer",
+    "description": "Non-contact thermometer with quick readings.",
+    "price": 39.99
+  },
+  {
+    "id": 40,
+    "name": "Portable Air Conditioner",
+    "description": "Compact air conditioner with remote control.",
+    "price": 299.99
+  },
+  {
+    "id": 41,
+    "name": "Indoor Grill",
+    "description": "Smokeless grill for indoor cooking.",
+    "price": 99.99
+  },
+  {
+    "id": 42,
+    "name": "Pressure Cooker",
+    "description": "Electric pressure cooker with preset cooking modes.",
+    "price": 89.99
+  },
+  {
+    "id": 43,
+    "name": "Hair Dryer",
+    "description": "Professional-grade hair dryer with multiple settings.",
+    "price": 49.99
+  },
+  {
+    "id": 44,
+    "name": "Smart Plug",
+    "description": "Control your appliances from your smartphone.",
+    "price": 14.99
+  },
+  {
+    "id": 45,
+    "name": "Dehumidifier",
+    "description": "Portable dehumidifier for small rooms.",
+    "price": 129.99
+  },
+  {
+    "id": 46,
+    "name": "Electric Blanket",
+    "description": "Heated blanket with adjustable temperature.",
+    "price": 79.99
+  },
+  {
+    "id": 47,
+    "name": "Wi-Fi Extender",
+    "description": "Extend your Wi-Fi signal to hard-to-reach areas.",
+    "price": 49.99
+  },
+  {
+    "id": 48,
+    "name": "Smart Oven",
+    "description": "Wi-Fi-enabled oven with precise temperature control.",
+    "price": 399.99
+  },
+  {
+    "id": 49,
+    "name": "Foot Massager",
+    "description": "Electric foot massager with heat function.",
+    "price": 129.99
+  },
+  {
+    "id": 50,
+    "name": "Condom",
+    "description": "Extra thin Dotted",
+    "price": 99.99
+  },
+  {
+    "id": "ada7cb59-d44f-4734-bf81-d69adfb29f2d",
+    "name": "Dildo",
+    "description": "Pink long",
+    "price": 99.99
+  }
+]
